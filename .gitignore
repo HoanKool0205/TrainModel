@@ -1,0 +1,11 @@
+my_project.egg-info/*
+logs/*
+results/*
+resources/*/__pycache__/*
+train_sh/__pycache__/*
+visu*/
+*.zip
+test_data/
+resources/__pycache__/*
+test.py
+I3D/DSL/__pycache__/*
